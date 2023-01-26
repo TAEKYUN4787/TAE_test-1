@@ -13,3 +13,6 @@ data=pd.merge(A, on="user")
 column=['user', 'movieA', 'movieB', 'movieC', 'movieD', 'movieE']
 data=data[column]
 data
+
+
+추가용
